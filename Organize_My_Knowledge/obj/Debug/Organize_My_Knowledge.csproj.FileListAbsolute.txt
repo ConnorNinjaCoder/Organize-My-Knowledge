@@ -1,0 +1,35 @@
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.exe
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI.resources
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI1.resources
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form3.resources
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form4.resources
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Properties.Resources.resources
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csproj.GenerateResource.Cache
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.exe
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.pdb
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.pdb
+C:\Users\fosterc\documents\visual studio 2015\Projects\Practice_Code\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csprojResolveAssemblyReference.cache
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csprojAssemblyReference.cache
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI.resources
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI1.resources
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form3.resources
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form4.resources
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Properties.Resources.resources
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csproj.GenerateResource.cache
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csproj.CoreCompileInputs.cache
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.exe
+E:\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.pdb
+E:\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.exe
+E:\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.pdb
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.exe
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\bin\Debug\Organize_My_Knowledge.pdb
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI.resources
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.OMKI1.resources
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form3.resources
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Form4.resources
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.Properties.Resources.resources
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csproj.GenerateResource.cache
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.exe
+C:\Users\Connor\Desktop\Organize_My_Knowledge\Organize_My_Knowledge\obj\Debug\Organize_My_Knowledge.pdb
